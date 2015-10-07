@@ -1,4 +1,4 @@
-<img src="css3-column-by-nanodesigns-cover.jpg" alt="CSS3 Columns">
+<img src="http://tuts.nanodesignsbd.com/wp-content/uploads/2015/10/css3-column-by-nanodesigns-cover.jpg" alt="CSS3 Columns by nanodesigns">
 
 # CSS3 Columns
 Making column designs using CSS3.
